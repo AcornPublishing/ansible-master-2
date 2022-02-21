@@ -1,0 +1,1 @@
+The Code snippet of Mastering Ansible Second Edition for all the chapters are in .txt formate.
